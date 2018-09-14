@@ -1,0 +1,67 @@
+Version 0.1
+	i. Intial version Release
+
+Version 0.2
+	i. Resolved errors.
+	ii. Added slugs in templage-tags.php
+
+Version 0.3
+	i. Removed holiday tag.
+
+Version 0.4
+	Resolved the following errors.
+
+	i.    In hotel-resort/archive.php#L32, the template_part called to does not exist i.e. get_template_part( 'no-results', 'archive' );
+	ii.   Theme unit test: edge-case-no-title wasn't verified. There is no way to view a post with no title from archive view	Nest lists issue.
+	iii.  Post pagination is working but it's styling is not confusing, the element cannot be distinguished from normal content.<address> and <pre> are not styled properly in comments.
+	iv.   Long Site Title and Site Description are not handled properly.	
+	v.    There's an abbreviation used i.e. "LT", full string is "LT Settings" located in file hotel-resort/inc/customizer.php#L18.
+	vi.   Document of the theme is added in readme.text file.
+	vii.  Links i.e <a> tag's color is not distinguishable from normal content.
+	viii. Mobile menu issues. The first three menu items are pulled up above the page start, hence one can't see them.
+
+Version 0.5
+	Resolved the following errors.
+
+	i.   Remove pingback from header.php.
+	ii.  Remove the front-page-post-form tag from style.css.
+	iii. Removed "Theme Name: Twenty Seventeen" editor style.
+	iv.  Removed Twenty Seventeen documentation link.
+	v.   Added the correct the fontawesome license.
+	vi.  Added translation to Ready to publish your first post? <a href="%1$s">Get started here</a> in no-result.php file.
+	vii. Removed dummy text from home-custom.php file.
+	viii.Added translation for
+			Line 30: 'default' => 'Right Sidebar',
+			Line 38: 'label' => 'Do you want this section',
+	ix.  Added type = "url" in customizer.php file.
+	x.   Added documentation for slider featured image in readme.txt file.
+	xi.  Removed function_exists from template-tag.php file.
+
+Version 0.6
+	Resolved the following errors.
+
+	i.   Added license for pexel image.
+	ii.  Added the translation in no-result.php.
+	iii. Added the translation in function.php.
+	iv.  Added fontawesome license for font file and css.
+	v.   Removed Portfolio tag from style.css file.
+	vi.  Added the changelog version in changelog.txt file.
+	vii. Change dont word and "back to homepage" from 404.php.
+	viii.Changed the copyrighted 2012 to 2012-2017.
+
+Version 0.7
+	Resolved the following errors.
+
+	i.   Update fontawesome files.
+	ii.  Tested theme upto wp version 4.9.4.
+	iii. Update font_url code in function.php file.
+
+Version 0.7.1
+	i.   Resolved theme error.
+	ii.  Included post format tag.
+	iii. Removed images from image folder.
+	iv.  Update the bootstrap files.
+
+Version 0.7.2
+	i.   Added Typography 
+	ii.  Updated Potfile.

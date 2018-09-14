@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hotel Resort\n"
+"Last-Translator: \n"
+"Language-Team: logicalThemes <support@logicalthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.2.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:11
+msgid "404"
+msgstr ""
+
+#: 404.php:11
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:12
+msgid "Looks like you have taken a wrong turn"
+msgstr ""
+
+#: 404.php:13
+#: no-results.php:17
+msgid "Dont worry it happens to the best of us."
+msgstr ""
+
+#: 404.php:15
+#: no-results.php:19
+msgid "Return to the home page"
+msgstr ""
+
+#: comments.php:27
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:17
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:59
+msgid "'Comments are closed."
+msgstr ""
+
+#: footer.php:28
+msgid "Design & Developed By"
+msgstr ""
+
+#: functions.php:26
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:94
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:105
+#: functions.php:115
+msgid "Appears on posts and pages"
+msgstr ""
+
+#: functions.php:104
+msgid "Posts and Pages Sidebar"
+msgstr ""
+
+#: functions.php:114
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:124
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:134
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:144
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:154
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:125
+#: functions.php:135
+#: functions.php:145
+#: functions.php:155
+msgid "Appears in footer"
+msgstr ""
+
+#: header.php:18
+msgid "Menu"
+msgstr ""
+
+
+#: image.php:34
+#: image.php:71
+#: image.php:109
+#: image.php:147
+#: image.php:185
+#: image.php:221
+#: page.php:18
+#: single.php:34
+#: single.php:91
+#: single.php:150
+#: single.php:209
+#: single.php:268
+#: single.php:325
+msgid "Pages:"
+msgstr ""
+
+#: image.php:39
+#: image.php:76
+#: image.php:114
+#: image.php:152
+#: image.php:190
+#: image.php:226
+msgid "Edit"
+msgstr ""
+
+#: archive.php:38
+#: archive.php:73
+#: archive.php:109
+#: archive.php:145
+#: archive.php:181
+#: archive.php:216
+#: index.php:39
+#: index.php:71
+#: index.php:104
+#: index.php:137
+#: index.php:170
+#: index.php:203
+#: search.php:37
+#: search.php:70
+#: search.php:103
+#: search.php:136
+#: search.php:169
+#: search.php:202
+#: single.php:53
+#: single.php:110
+#: single.php:169
+#: single.php:228
+#: single.php:287
+#: single.php:344
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:39
+#: archive.php:74
+#: archive.php:110
+#: archive.php:146
+#: archive.php:182
+#: archive.php:217
+#: index.php:40
+#: index.php:72
+#: index.php:105
+#: index.php:138
+#: index.php:171
+#: index.php:204
+#: search.php:38
+#: search.php:71
+#: search.php:104
+#: search.php:137
+#: search.php:170
+#: search.php:203
+#: single.php:50
+#: single.php:107
+#: single.php:166
+#: single.php:225
+#: single.php:284
+#: single.php:341
+msgid "Next page"
+msgstr ""
+
+#: archive.php:40
+#: archive.php:75
+#: archive.php:111
+#: archive.php:147
+#: archive.php:183
+#: archive.php:218
+#: index.php:41
+#: index.php:73
+#: index.php:106
+#: index.php:139
+#: index.php:172
+#: index.php:205
+#: search.php:39
+#: search.php:72
+#: search.php:105
+#: search.php:138
+#: search.php:171
+#: search.php:204
+#: single.php:38
+#: single.php:95
+#: single.php:154
+#: single.php:213
+#: single.php:272
+#: single.php:329
+msgid "page"
+msgstr ""
+
+#: no-results.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: no-results.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: search.php:17
+#: search.php:50
+#: search.php:83
+#: search.php:116
+#: search.php:149
+#: search.php:180
+msgid "Results For: %s"
+msgstr ""
+
+#: searchform.php:9
+#: searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr ""
+
+#: single.php:51
+#: single.php:108
+#: single.php:167
+#: single.php:226
+#: single.php:285
+#: single.php:342
+msgid "Next post:"
+msgstr ""
+
+#: single.php:54
+#: single.php:111
+#: single.php:170
+#: single.php:229
+#: single.php:288
+#: single.php:345
+msgid "Previous post:"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid 'Do you want this section'
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:30
+#: inc/customizer.php:43
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Add Topbar Content here"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Add Phone Number"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Add Email"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Add Location"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid 'Topbar Color'
+msgstr ""
+
+#: inc/customizer.php:203
+msgid 'Topbar Fonts'
+msgstr ""
+
+#: inc/customizer.php:214
+msgid 'Topbar Font Size'
+msgstr ""
+
+#: inc/customizer.php:226
+msgid 'Logo'
+msgstr ""
+
+#: inc/customizer.php:239
+msgid 'Logo Font'
+msgstr ""
+
+#: inc/customizer.php:251
+msgid 'Logo Font Size'
+msgstr ""
+
+#: inc/customizer.php:263
+msgid 'Description Color'
+msgstr ""
+
+#: inc/customizer.php:276
+msgid 'Description Fonts'
+msgstr ""
+
+#: inc/customizer.php:287
+msgid 'Description Font Size'
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Add Social Media Url here"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Add Youtube link"
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Add Facebook link"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Add Twitter link"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "Add RSS link"
+msgstr ""
+
+#: inc/customizer.php:350
+msgid "Add Instagram link"
+msgstr ""
+
+#: inc/customizer.php:361
+msgid "Add Pinterest link"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: inc/customizer.php:546
+#: inc/customizer.php:395
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer.php:408
+#: inc/customizer.php:559
+msgid "Title Fonts"
+msgstr ""
+
+#: inc/customizer.php:419
+#: inc/customizer.php:571
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/customizer.php:584
+msgid 'Subtitle Font Size'
+msgstr ""
+
+#: inc/customizer.php:597
+msgid 'Service Heading Font Size'
+msgstr ""
+
+#: inc/customizer.php:609
+#: inc/customizer.php:431
+msgid "Content Color"
+msgstr ""
+
+#: inc/customizer.php:445
+#: inc/customizer.php:622
+msgid "Content Fonts"
+msgstr ""
+
+#: inc/customizer.php:456
+#: inc/customizer.php:633
+msgid "Content Font Size"
+msgstr ""
+
+#: inc/customizer.php:645
+#: inc/customizer.php:468
+msgid 'Button Color'
+msgstr ""
+
+#: inc/customizer.php:481
+#: inc/customizer.php:658
+msgid 'Button Fonts'
+msgstr ""
+
+#: inc/customizer.php:669
+#: inc/customizer.php:492
+msgid 'Button Font Size'
+msgstr ""
+
+#: inc/customizer.php:500
+msgid 'Accomodation'
+msgstr ""
+
+#: inc/customizer.php:501
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:522
+msgid "Section Sub-Title"
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "Select Accomodation Page"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:680
+msgid "Add some text for footer like copyright etc."
+msgstr ""
+
+#: inc/customizer.php:689
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:772
+msgid "Hotel Resort Pro"
+msgstr ""
+
+#: inc/customizer.php:773
+msgid "Update Pro"
+msgstr ""
+
+#: functions.php:60
+msgid "Warm Greetings to you!!"
+msgstr ""
+
+#: functions.php:61
+msgid "Our sincere thanks for choosing our hotel resort theme. We assure you a high performing theme for your hotel business. Please proceed towards welcome section to start an amazing journey with us.."
+msgstr ""
+
+#: functions.php:62
+msgid "Welcome..."
+msgstr ""
+
+#: searchform.php:9
+msgid "Placeholder"
+msgstr ""
+
+#: searchform.php:11
+msgid "Submit Button"
+msgstr ""
+
+#: single.php:45
+msgid "Parent Post Link"
+msgstr ""
